@@ -97,4 +97,10 @@ python wordlist_generator.py
 
 ---
 ```
+## 📥 تنزيل المستودع
+
+يمكنك تنزيل المستودع باستخدام Git عبر الأمر التالي:
+
+```bash
+git clone https://github.com/foefvjfev33/Wordlist.git
 
